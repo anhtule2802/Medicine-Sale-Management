@@ -1,0 +1,192 @@
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe.config
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.pdb
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormBanThuoc.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.Properties.Resources.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.GenerateResource.Cache
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.exe
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.pdb
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDangNhap.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSHD.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKeDon.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKhongKeDon.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormKeDonThuoc.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCKeDonThuoc.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSDT.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormThongKe.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormQuanLy.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.DragControl.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiNhanVien.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiLoThuoc.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiThuoc.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.SplashScreen.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\Bunifu.Core.dll
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCThongKeDoanhThu.resources
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csprojResolveAssemblyReference.cache
+E:\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.TrangChinhProject.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe.config
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.exe
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\Bunifu.Core.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.DragControl.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormBanThuoc.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDangNhap.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSDT.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSHD.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormKeDonThuoc.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormQuanLy.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormThongKe.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.Properties.Resources.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.SplashScreen.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.TrangChinhProject.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKeDon.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKhongKeDon.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCKeDonThuoc.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiLoThuoc.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiNhanVien.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiThuoc.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCThongKeDoanhThu.resources
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.GenerateResource.Cache
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe.config
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.exe
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.pdb
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.DragControl.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormBanThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDangNhap.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSDT.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSHD.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormKeDonThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormQuanLy.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormThongKe.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.Properties.Resources.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.SplashScreen.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.TrangChinhProject.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKeDon.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKhongKeDon.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCKeDonThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiLoThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiNhanVien.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.GenerateResource.Cache
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.pdb
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\Bunifu.Core.dll
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN(3 modules)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCThongKeDoanhThu.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe.config
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.exe
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.DragControl.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormBanThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDangNhap.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSDT.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSHD.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormKeDonThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormQuanLy.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormThongKe.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.Properties.Resources.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.SplashScreen.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.TrangChinhProject.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKeDon.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKhongKeDon.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCKeDonThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiLoThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiNhanVien.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiThuoc.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCThongKeDoanhThu.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.GenerateResource.Cache
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDoiMatKhau.resources
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSBN.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe.config
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.exe
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.DragControl.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormBanThuoc.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDangNhap.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDoiMatKhau.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSBN.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSDT.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSHD.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormKeDonThuoc.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormQuanLy.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormThongKe.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.Properties.Resources.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.SplashScreen.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.TrangChinhProject.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKeDon.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKhongKeDon.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCKeDonThuoc.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiLoThuoc.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiNhanVien.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiThuoc.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCThongKeDoanhThu.resources
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.GenerateResource.Cache
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csprojResolveAssemblyReference.cache
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.pdb
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe.config
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.exe
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\PTUD_GUI.pdb
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.dll
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.dll
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.dll
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\BLL.pdb
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\Entities.pdb
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\bin\Debug\DAL.pdb
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csprojAssemblyReference.cache
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.DragControl.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormBanThuoc.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDangNhap.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDoiMatKhau.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSBN.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSDT.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormDSHD.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormKeDonThuoc.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormQuanLy.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.FormThongKe.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.Properties.Resources.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.SplashScreen.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.TrangChinhProject.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKeDon.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCBanThuocKhongKeDon.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCKeDonThuoc.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiLoThuoc.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiNhanVien.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCQuanLiThuoc.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.UCThongKeDoanhThu.resources
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.GenerateResource.cache
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.csproj.CopyComplete
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.exe
+D:\PTUD\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\PTUD_GUI\obj\Debug\PTUD_GUI.pdb

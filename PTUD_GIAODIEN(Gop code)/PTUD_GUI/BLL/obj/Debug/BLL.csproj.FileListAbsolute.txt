@@ -1,0 +1,45 @@
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\bin\Debug\BLL.dll
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\bin\Debug\BLL.pdb
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\bin\Debug\DAL.dll
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\bin\Debug\Entities.dll
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\bin\Debug\DAL.pdb
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\bin\Debug\Entities.pdb
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\obj\Debug\BLL.dll
+d:\document\visual studio 2015\Projects\demoDOAN\BLL\obj\Debug\BLL.pdb
+D:\Desktop\demoDOAN\BLL\bin\Debug\BLL.dll
+D:\Desktop\demoDOAN\BLL\bin\Debug\BLL.pdb
+D:\Desktop\demoDOAN\BLL\bin\Debug\DAL.dll
+D:\Desktop\demoDOAN\BLL\bin\Debug\Entities.dll
+D:\Desktop\demoDOAN\BLL\bin\Debug\DAL.pdb
+D:\Desktop\demoDOAN\BLL\bin\Debug\Entities.pdb
+D:\Desktop\demoDOAN\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Desktop\demoDOAN\BLL\obj\Debug\BLL.dll
+D:\Desktop\demoDOAN\BLL\obj\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\bin\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\bin\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\obj\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\BLL\obj\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\BLL.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\obj\Debug\BLL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\obj\Debug\BLL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\BLL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\BLL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\DAL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\Entities.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\DAL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\bin\Debug\Entities.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\obj\Debug\BLL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\BLL\obj\Debug\BLL.pdb

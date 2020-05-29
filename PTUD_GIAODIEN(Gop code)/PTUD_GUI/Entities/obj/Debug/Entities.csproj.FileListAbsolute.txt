@@ -1,0 +1,28 @@
+d:\document\visual studio 2015\Projects\demoDOAN\Entities\bin\Debug\Entities.dll
+d:\document\visual studio 2015\Projects\demoDOAN\Entities\bin\Debug\Entities.pdb
+d:\document\visual studio 2015\Projects\demoDOAN\Entities\obj\Debug\Entities.dll
+d:\document\visual studio 2015\Projects\demoDOAN\Entities\obj\Debug\Entities.pdb
+D:\Desktop\demoDOAN\Entities\bin\Debug\Entities.dll
+D:\Desktop\demoDOAN\Entities\bin\Debug\Entities.pdb
+D:\Desktop\demoDOAN\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Desktop\demoDOAN\Entities\obj\Debug\Entities.dll
+D:\Desktop\demoDOAN\Entities\obj\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN\Entities\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN\Entities\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN\Entities\obj\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN\Entities\obj\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\Entities\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\Entities\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\Entities\obj\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\Entities\obj\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\bin\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\bin\Debug\Entities.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\obj\Debug\Entities.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\obj\Debug\Entities.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\bin\Debug\Entities.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\bin\Debug\Entities.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\obj\Debug\Entities.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\Entities\obj\Debug\Entities.pdb

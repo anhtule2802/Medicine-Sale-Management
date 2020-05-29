@@ -1,0 +1,18 @@
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\DAL\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\DAL\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\DAL\obj\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\DAL\obj\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN\PTUD_GUI\DAL\bin\Debug\DAL.dll.config
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\bin\Debug\DAL.dll.config
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\bin\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\bin\Debug\DAL.pdb
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\obj\Debug\DAL.dll
+D:\Desktop\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\obj\Debug\DAL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\bin\Debug\DAL.dll.config
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\bin\Debug\DAL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\bin\Debug\DAL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\obj\Debug\DAL.dll
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\obj\Debug\DAL.pdb
+C:\Users\nRIs\Desktop\PTUD\PTUD\PTUD_GIAODIEN(Gop code)\PTUD_GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
